@@ -5,6 +5,7 @@
 </h1>
 
 ---
+![Static Badge](https://img.shields.io/badge/status-active-green)
 ![GitHub Release](https://img.shields.io/github/v/release/AntoninPvr/MarcoX)
 ![GitHub License](https://img.shields.io/github/license/AntoninPvr/MarcoX)
 
