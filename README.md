@@ -4,6 +4,8 @@
     MarcoX
 </h1>
 
+---
+
 Current version is `8.0`.
 
 MarcoX is the new version of the original Marco project based on Raspberry PI and old style resistive screen. This new version is based on Orange PI zero 2W with a 7" capacitive touch screen. This modernized versiona aims to be more reliable and easier to replicate.
@@ -152,7 +154,7 @@ Material: 6mm plywood recommended.
 
 ---
 
-* #### Mobile App InsidePSBS is available here :
+* #### Mobile App InsidePSBS source is available here :
     > https://github.com/info-telecom-strasbourg/InsidePSBS
     
 <p align="right">
