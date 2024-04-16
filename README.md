@@ -4,18 +4,22 @@
     MarcoX
 </h1>
 
-This repository contains only MarcoX hardware.
-
 Current version is `8.0`.
 
-This is a paiement terminal for the MarcoX project. It is based on a Orange PI zero 2W with 1GB RAM and a 7" touch screen. This system use 125kHz RFID card. The terminal is powered by USB-C.
+MarcoX is the new version of the original Marco project based on Raspberry PI and old style resistive screen. This new version is based on Orange PI zero 2W with a 7" capacitive touch screen. This modernized versiona aims to be more reliable and easier to replicate.
 
-Software is available here : https://github.com/LOISGALLAUD/MARCONEO
+Software was also modernized and is available here : https://github.com/LOISGALLAUD/MARCONEO
+
+Marco is a project that aims to create a payment terminal for a school BDE (French equivalent of Student Union). It is based on a RFID card system. The terminal is used by the students to pay for their meals or drinks. The terminal is connected to a self-hosted server that manages the accounts of the students. This terminal act as cash register.
+
+This project is related to InsidePSBS app. Students can check their account and history on this mobile app available on IOS and Android. https://github.com/info-telecom-strasbourg/InsidePSBS (Reserved to TPS and ESBS students)
 
 <p float="left">
   <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/full.JPG?raw=true"  width="46%"/>
   <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/frame_bellow.JPG?raw=true" width="50%" /> 
 </p>
+
+## Features
 
 ## Requirements
 
