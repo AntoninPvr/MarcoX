@@ -4,7 +4,11 @@
     MarcoX
 </h1>
 
-Current version is `8.0`.
+---
+![Static Badge](https://img.shields.io/badge/status-active-green)
+![GitHub Release](https://img.shields.io/github/v/release/AntoninPvr/MarcoX)
+![GitHub License](https://img.shields.io/github/license/AntoninPvr/MarcoX)
+
 
 MarcoX is the new version of the original Marco project based on Raspberry PI and old style resistive screen. This new version is based on Orange PI zero 2W with a 7" capacitive touch screen. This modernized versiona aims to be more reliable and easier to replicate.
 
