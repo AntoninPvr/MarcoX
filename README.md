@@ -1,3 +1,20 @@
+<style>
+  .container {
+    display: flex;
+    align-items: start;
+  }
+  
+  .text {
+    flex: 2;
+    padding: 20px;
+  }
+  
+  .image {
+    flex: 1;
+    text-align: start;
+  }
+</style>
+
 <h1 align="center">
     <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/logo.png?raw=true" alt="MarcoX Logo" width="200"></a>
     <br>
@@ -10,6 +27,7 @@ MarcoX is the new version of the original Marco project based on Raspberry PI an
 
 Software was also modernized and is available here : https://github.com/LOISGALLAUD/MARCONEO
 
+
 Marco is a project that aims to create a payment terminal for a school BDE (French equivalent of Student Union). It is based on a RFID card system. The terminal is used by the students to pay for their meals or drinks. The terminal is connected to a self-hosted server that manages the accounts of the students. This terminal act as cash register.
 
 This project is related to InsidePSBS app. Students can check their account and history on this mobile app available on IOS and Android. https://github.com/info-telecom-strasbourg/InsidePSBS (Reserved to TPS and ESBS students)
@@ -20,6 +38,8 @@ This project is related to InsidePSBS app. Students can check their account and 
 </p>
 
 ## Features
+
+
 
 ## Requirements
 
@@ -59,3 +79,48 @@ This project is related to InsidePSBS app. Students can check their account and 
 ## Enclosure
 
 ![Enclosure](https://github.com/AntoninPvr/MarcoX/blob/main/img/render/enclosure.JPG?raw=true)
+
+
+### Laser cut parts
+---
+<div class="container">
+    <div class="text">
+        <p>Laser cut parts are in <code>.svg </code> format. Red lines width is 0.2mm and are adapted for <a href="https://www.troteclaser.com/static/pdf/speedy-100/Fiche-technique-Speedy-100C-8063-fr.pdf">Trotec Speedy 100</a> laser cutter. </p>
+    </div>
+    <div class="image">
+        <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/enclosure_base.svg?raw=true" alt="laser" witdth="30%">
+    </div>
+</div>
+<div class="container">
+    <div class="image">
+        <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/top_cover.svg?raw=true" alt="laser" witdth="30%">
+    </div>
+    <div class="image">
+        <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/enclosure_long_side.svg?raw=true" alt="laser" witdth="40%">
+    </div>
+    <div class="image">
+        <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/enclosure_short_side.svg?raw=true" alt="laser" witdth="20%">
+    </div>
+</div>
+
+
+
+## Related projects
+
+
+* #### Software associated with MarcoX is available here :
+    > https://github.com/LOISGALLAUD/MARCONEO
+
+    <p align="left">
+        <img alt="Screen front" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/main_menu.png?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/pricemodifier.png?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/historique_menu.png?raw=true" width="30%">
+    </p>
+
+
+---
+
+* #### Mobile App InsidePSBS is available here :
+    > https://github.com/info-telecom-strasbourg/InsidePSBS
