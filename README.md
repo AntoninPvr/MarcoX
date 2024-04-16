@@ -1,20 +1,3 @@
-<style>
-  .container {
-    display: flex;
-    align-items: start;
-  }
-  
-  .text {
-    flex: 2;
-    padding: 20px;
-  }
-  
-  .image {
-    flex: 1;
-    text-align: start;
-  }
-</style>
-
 <h1 align="center">
     <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/logo.png?raw=true" alt="MarcoX Logo" width="200"></a>
     <br>
