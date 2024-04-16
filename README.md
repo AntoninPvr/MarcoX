@@ -4,8 +4,6 @@
     MarcoX
 </h1>
 
----
-
 Current version is `8.0`.
 
 MarcoX is the new version of the original Marco project based on Raspberry PI and old style resistive screen. This new version is based on Orange PI zero 2W with a 7" capacitive touch screen. This modernized versiona aims to be more reliable and easier to replicate.
@@ -151,14 +149,24 @@ Material: 6mm plywood recommended.
         <img alt="Screen BAck" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/historique_menu.png?raw=true" width="30%">
     </p>
 
-
 ---
 
 * #### Mobile App InsidePSBS source is available here :
     > https://github.com/info-telecom-strasbourg/InsidePSBS
     
-<p align="right">
+<p align="center">
     <a href="https://app.its-tps.fr" target="_blank">
         <img src="https://app.its-tps.fr/logo.png" width="20%"/>
     </a>
  </p>
+
+ ---
+
+* #### Old version of Marco "MarcoSlim" project is available here :
+    > https://github.com/AntoninPvr/MarcoSlim
+
+    <p align="left">
+        <img alt="MarcoSlimFront" src="https://github.com/AntoninPvr/MarcoSlim/blob/main/img/render/full.JPG?raw=true" width="30%">
+    &nbsp;
+        <img alt="Screen BAck" src="https://github.com/AntoninPvr/MarcoSlim/blob/main/img/render/internal.JPG?raw=true" width="30%">
+    </p>
