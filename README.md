@@ -154,3 +154,9 @@ Material: 6mm plywood recommended.
 
 * #### Mobile App InsidePSBS is available here :
     > https://github.com/info-telecom-strasbourg/InsidePSBS
+    
+<p align="right">
+    <a href="https://app.its-tps.fr" target="_blank">
+        <img src="https://app.its-tps.fr/logo.png" width="20%"/>
+    </a>
+ </p>
