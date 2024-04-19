@@ -136,7 +136,7 @@ Material: 6mm plywood recommended.
 
 <p align="center">
     <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/enclosure_long_side.svg?raw=true"  width="30%"/>
-    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/enclosure_long_side_charging_hole.svg?raw=true" width="30%" /> 
+    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/enclosure_long_side_usb-c.svg.svg?raw=true" width="30%" /> 
     <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/enclosure_short_side.svg?raw=true" width="30%" />
 </p>
 
