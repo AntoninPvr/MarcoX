@@ -111,12 +111,6 @@ This frame allow screen and top cover to be attached without overthickness and t
 
 This mount is used to fix the RFID reader to the enclosure as close as possible to improve card detection.
 
-### Orange PI Standoff
-
-**File:** [orange_pi_standoff.STL](https://github.com/AntoninPvr/MarcoX/blob/main/orange_pi_standoff.STL)
-
-Internal frame allow use of a custom PCB to fix Orange PI to internal frame and embed battery management and RFID reader circuit. This feature is not yet implemented, therefore this part is a placeholder.
-
 ## Enclosure 
 
 <p align="center">
