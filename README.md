@@ -28,15 +28,17 @@ This project is related to InsidePSBS app. Students can check their account and 
 * **Screen**: 7" capacitive touch screen
 * **RFID reader**: 125kHz compatible
 * **Power supply**: USB-C 5V 3A
+* **Battery**: Support power bank up to 20mm thickness
 * **SBC**: Orange PI zero 2W
     * SoC: Allwinner H618 quad-core Cortex-A53 @ 1.5GHz
     * RAM: 1GB LPDDR4
     * Wi-Fi: 802.11 ac (Wi-Fi 5)
     * Bluetooth: 5.0
 * **Dimensions**:
-    * Length: 210mm
-    * Depth: 150mm
-    * Height: 90mm
+    * Length: 188mm
+    * Width: 137mm
+    * Height: 71mm
+    * 1.8L volume
 
 ## Shopping list
 
@@ -50,6 +52,7 @@ This project is related to InsidePSBS app. Students can check their account and 
 * mini HDMI to HDMI 100mm cable: A2 to C1
 * USB-C to micro usb 100mm cable: W3R to T1B
 * USB-C pannel 17mm center distance mount connector 20mm
+* Power bank (optional)
 
     ---
 
@@ -57,6 +60,7 @@ This project is related to InsidePSBS app. Students can check their account and 
 * M3 screws 16mm flat-head x4
 * M3 screws 10mm x10
 * M3 inserts x14
+* 6mm plywood for the enclosure
 
     ---
 ### Parts details
@@ -66,7 +70,7 @@ This project is related to InsidePSBS app. Students can check their account and 
 |Mini HDMI to HDMI 100mm cable: (A2 to C1). Large side of HDMI is on ribbon cable side. Mini HDMI large side is on ribbon connector side.  | <p align="right"><img alt="HDMI to Micro HDMI adapter" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/hdmi_to_micro_hdmi.jpg?raw=true" width="200"></p>|
 |USB-C to micro usb 100mm cable: W3R to T1B|<p align="right"><img alt="HDMI to Micro HDMI adapter" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/usbc_to_micro_usb.jpg?raw=true" width="200"></p>|
 |USB-C pannel 17mm center distance mount connector 200mm|<p align="right"><img alt="HDMI to Micro HDMI adapter" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/usbc_pannel_mount.jpg?raw=true" width="200"></p>|
-
+| Power bank 10000mAh (optional) |<p align="right"><img alt="Power bank" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/power_bank.jpg?raw=true" width="200"></p>|
 
 ### Screen
 
@@ -91,25 +95,33 @@ Tested settings, but feel free to adapt them to your printer and material.:
 * Nozzle diameter: 0.4mm
 * Material: PLA or PETG
 
-### Internal frame
+<p align="center">
+    <img alt="screen frame" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/screen_frame.JPG?raw=true" width="30%">
+&nbsp;
+    <img alt="Internal frame" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/internal_frame.JPG?raw=true" width="30%">
+&nbsp;
+    <img alt="Card reader" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/card_reader.JPG?raw=true" width="30%">
+</p>
 
-**File:** [internal_frame.STL](https://github.com/AntoninPvr/MarcoX/blob/main/internal_frame.STL)
+* ### Screen frame
 
-This frame is attached to the screen and is used to fix all other parts.
+    **File:** [top_cover_frame.STL](https://github.com/AntoninPvr/MarcoX/blob/main/screen_frame.STL)
 
-*Note: For this part adding support may improve print quality*
+    This frame allow screen and top cover to be attached without overthickness and to secure enclosure and removable top cover.
 
-### Top cover frame
+* ### Internal frame
 
-**File:** [top_cover_frame.STL](https://github.com/AntoninPvr/MarcoX/blob/main/top_cover_frame.STL)
+    **File:** [internal_frame.STL](https://github.com/AntoninPvr/MarcoX/blob/main/internal_frame.STL)
 
-This frame allow screen and top cover to be attached without overthickness and to secure enclosure and removable top cover.
+    This frame is attached to the screen and is used to fix all other parts.
 
-### Card reader mount
+    *Note: For this part adding support may improve print quality*
 
-**File:** [card_reader.STL](https://github.com/AntoninPvr/MarcoX/blob/main/card_reader.STL)
+* ### Card reader mount
 
-This mount is used to fix the RFID reader to the enclosure as close as possible to improve card detection.
+    **File:** [card_reader.STL](https://github.com/AntoninPvr/MarcoX/blob/main/card_reader.STL)
+
+    This mount is used to fix the RFID reader to the enclosure as close as possible to improve card detection.
 
 ## Enclosure 
 
