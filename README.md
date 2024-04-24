@@ -51,7 +51,7 @@ This project is related to InsidePSBS app. Students can check their account and 
 * USB-C power supply
 * mini HDMI to HDMI 100mm cable: A2 to C1
 * USB-C to micro usb 100mm cable: W3R to T1B
-* USB-C pannel 17mm center distance mount connector 20mm
+* USB-C pannel 17mm center distance mount connector 200mm
 * Power bank (optional)
 
     ---
