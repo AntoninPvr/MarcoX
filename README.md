@@ -147,9 +147,9 @@ Material: 6mm plywood recommended.
 </p>
 
 <p align="center">
-    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/long_side.svg?raw=true"  width="30%"/>
-    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/long_side_usb-c.svg?raw=true" width="30%" /> 
-    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/short_side.svg?raw=true" width="30%" />
+    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/long_side.svg?raw=true"  width="36%"/>
+    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/long_side_usb-c.svg?raw=true" width="36%" /> 
+    <img src="https://github.com/AntoninPvr/MarcoX/blob/main/laser/thickness_6mm/short_side.svg?raw=true" width="26.3%" />
 </p>
 
 ## Related projects
@@ -158,11 +158,11 @@ Material: 6mm plywood recommended.
     > https://github.com/LOISGALLAUD/MARCONEO
 
     <p align="left">
-        <img alt="Screen front" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/main_menu.png?raw=true" width="30%">
+        <img alt="Main screen" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/main_menu.png?raw=true" width="30%">
     &nbsp;
-        <img alt="Screen BAck" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/pricemodifier.png?raw=true" width="30%">
+        <img alt="MarcoNeo custom" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/pricemodifier.png?raw=true" width="30%">
     &nbsp;
-        <img alt="Screen BAck" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/historique_menu.png?raw=true" width="30%">
+        <img alt="MarcoNeo history" src="https://github.com/LOISGALLAUD/MARCONEO/blob/master/data/images/readme/historique_menu.png?raw=true" width="30%">
     </p>
 
 ---
