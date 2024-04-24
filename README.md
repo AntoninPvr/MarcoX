@@ -96,16 +96,16 @@ Tested settings, but feel free to adapt them to your printer and material.:
 * Material: PLA or PETG
 
 <p align="center">
-    <img alt="screen frame" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/screen_frame.JPG?raw=true" width="30%">
+    <img alt="screen frame" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/screen_frame.JPG?raw=true" width="30%">
 &nbsp;
-    <img alt="Internal frame" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/internal_frame.JPG?raw=true" width="30%">
+    <img alt="Internal frame" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/internal_frame.JPG?raw=true" width="30%">
 &nbsp;
-    <img alt="Card reader" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/card_reader.JPG?raw=true" width="30%">
+    <img alt="Card reader" src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/card_reader.JPG?raw=true" width="33.6%">
 </p>
 
 * ### Screen frame
 
-    **File:** [top_cover_frame.STL](https://github.com/AntoninPvr/MarcoX/blob/main/screen_frame.STL)
+    **File:** [screen_frame.STL](https://github.com/AntoninPvr/MarcoX/blob/main/screen_frame.STL)
 
     This frame allow screen and top cover to be attached without overthickness and to secure enclosure and removable top cover.
 
@@ -122,6 +122,12 @@ Tested settings, but feel free to adapt them to your printer and material.:
     **File:** [card_reader.STL](https://github.com/AntoninPvr/MarcoX/blob/main/card_reader.STL)
 
     This mount is used to fix the RFID reader to the enclosure as close as possible to improve card detection.
+
+* ### Antenna support
+
+    **File:** [antenna_support.STL](https://github.com/AntoninPvr/MarcoX/blob/main/antenna_support.STL)
+
+    This part is used to fix the WiFi antenna and improve signal quality.
 
 ## Enclosure 
 
