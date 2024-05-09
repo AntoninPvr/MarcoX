@@ -9,6 +9,12 @@
 ![GitHub Release](https://img.shields.io/github/v/release/AntoninPvr/MarcoX)
 ![GitHub License](https://img.shields.io/github/license/AntoninPvr/MarcoX)
 
+<p float="left">
+  <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/logo_orange_pi.png?raw=true"  width="100"/>
+  <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/logo_rfid.png?raw=true" width="100" />
+  <img src="https://fouaille.bde-tps.fr/storage/images/organization_logo/bureau_des_etudiants_400.png" width="100" />
+</p>
+
 
 MarcoX is the new version of the original Marco project based on Raspberry PI and old style resistive screen. This new version is based on Orange PI zero 2W with a 7" capacitive touch screen and aims to be more reliable and easier to replicate.
 
