@@ -10,9 +10,9 @@
 ![GitHub License](https://img.shields.io/github/license/AntoninPvr/MarcoX)
 
 <p float="left">
-  <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/logo_orange_pi.png?raw=true"  width="100"/>
-  <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/render/logo_rfid.png?raw=true" width="100" />
-  <img src="https://fouaille.bde-tps.fr/storage/images/organization_logo/bureau_des_etudiants_400.png" width="100" />
+  <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/logo_orange_pi.png?raw=true"  width="100" style="margin-right: 30" />
+  <img src="https://github.com/AntoninPvr/MarcoX/blob/main/img/logo_rfid.png?raw=true" width="50" style="margin-right: 30"/>
+  <img src="https://fouaille.bde-tps.fr/storage/images/organization_logo/bureau_des_etudiants_400.png" width="80" />
 </p>
 
 
